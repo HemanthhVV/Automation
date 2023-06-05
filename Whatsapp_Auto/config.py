@@ -1,0 +1,1 @@
+CHROME_FILE_PATH="user-data-dir=C:\\Users\\vvhem\\AppData\\Local\\Google\\Chrome\\User Data\\Whaapp"
